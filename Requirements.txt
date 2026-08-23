@@ -1,0 +1,2 @@
+# CodeVault uses only Python's standard library.
+# No external dependencies are required for this version.
