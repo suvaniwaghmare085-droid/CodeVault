@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+.env
+.vscode/
+.idea/
+
+# Personal tracking data (remove this line if you WANT to commit your own progress)
+data/codevault.json
+
+# Generated reports
+reports/*.txt
+!reports/.gitkeep
