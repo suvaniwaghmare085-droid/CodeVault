@@ -10,3 +10,4 @@ data/codevault.json
 # Generated reports
 reports/*.txt
 !reports/.gitkeep
+
